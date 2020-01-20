@@ -1,5 +1,6 @@
 # airplane-tickets-webpacker
-
+Учебный проект по Javascript
+ 
 ## Project setup
 ```
 npm install
