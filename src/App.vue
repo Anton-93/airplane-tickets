@@ -1,18 +1,18 @@
 <template>
   <div id="app">
-
+    <Flights></Flights>
   </div>
 </template>
 
 <script>
-import Flights from './components/Flights.vue'
+    import Flights from './components/Flights.vue'
 
-export default {
-  name: 'app',
-  components: {
-    Flights
-  }
-}
+    export default {
+      name: 'app',
+      components: {
+        Flights
+      }
+    }
 </script>
 
 <style>
